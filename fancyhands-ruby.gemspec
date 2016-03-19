@@ -20,6 +20,7 @@ Gem::Specification.new do |s|
 				   ]
   s.homepage    = 'https://github.com/fancyhands/fancyhands-ruby'
   s.license       = 'MIT'
+  s.add_runtime_dependency 'oauth'
 end
 
 # requires oatuh, addressable
